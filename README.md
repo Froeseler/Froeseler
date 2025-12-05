@@ -18,18 +18,13 @@
 
 <div align="center">
 
-  <a href="https://github.com/carlosfroeseler/lms-flask-platform">
+  <a href="https://github.com/Froeseler/lms-flask-platform">
     <img height="300" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=carlosfroeseler&repo=lms-flask-platform&theme=radical" />
   </a>
   &nbsp;&nbsp;
 
-  <a href="https://github.com/carlosfroeseler/whatsapp-bot-uif">
+  <a href="https://github.com/Froeseler/whatsapp-bot-uif">
     <img height="300" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=carlosfroeseler&repo=whatsapp-bot-uif&theme=tokyonight" />
-  </a>
-  &nbsp;&nbsp;
-
-  <a href="https://github.com/carlosfroeseler/taf-automation">
-    <img height="300" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=carlosfroeseler&repo=taf-automation&theme=radical" />
   </a>
 
 </div>

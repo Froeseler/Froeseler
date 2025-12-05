@@ -6,9 +6,9 @@
 
 <div align="center">
 
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=carlosfroeseler&show_icons=true&theme=radical" />
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Froeseler&show_icons=true&theme=radical" />
   &nbsp;&nbsp;
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=carlosfroeseler&layout=compact&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Froeseler&layout=compact&theme=tokyonight" />
 
 </div>
 
@@ -19,12 +19,12 @@
 <div align="center">
 
   <a href="https://github.com/Froeseler/lms-flask-platform">
-    <img height="300" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=carlosfroeseler&repo=lms-flask-platform&theme=radical" />
+    <img height="300" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Froeseler&repo=lms-flask-platform&theme=radical" />
   </a>
   &nbsp;&nbsp;
 
   <a href="https://github.com/Froeseler/whatsapp-bot-uif">
-    <img height="300" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=carlosfroeseler&repo=whatsapp-bot-uif&theme=tokyonight" />
+    <img height="300" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Froeseler&repo=whatsapp-bot-uif&theme=tokyonight" />
   </a>
 
 </div>

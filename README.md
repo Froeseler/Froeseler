@@ -23,13 +23,8 @@
   </a>
   &nbsp;&nbsp;
 
-  <a href="https://github.com/alinetakai/fuga-dos-zumbis">
-    <img height="300" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=alinetakai&repo=fuga-dos-zumbis&theme=tokyonight" />
-  </a>
-  &nbsp;&nbsp;
-
-  <a href="https://github.com/alinetakai/desafio-da-forca">
-    <img height="300" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=alinetakai&repo=desafio-da-forca&theme=radical" />
+  <a href="https://github.com/Froeseler/card_neon">
+    <img height="300" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Froeseler&repo=card_neon&theme=tokyonight" />
   </a>
 
 </div>

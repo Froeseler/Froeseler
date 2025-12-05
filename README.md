@@ -14,22 +14,26 @@
 
 ---
 
-## 🔥 Projetos em destaque
+## 🎮 Repositórios em destaque
 
 <div align="center">
 
-  <a href="https://github.com/Froeseler/lms-flask-platform">
-    <img height="300" src="https://github.com/Froeseler/forca-python" />
+  <a href="https://github.com/Froeseler/forca-python">
+    <img height="300" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Froeseler&repo=forca-python&theme=radical" />
   </a>
   &nbsp;&nbsp;
 
-  <a href="https://github.com/Froeseler/whatsapp-bot-uif">
-    <img height="300" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Froeseler&repo=whatsapp-bot-uif&theme=tokyonight" />
+  <a href="https://github.com/alinetakai/fuga-dos-zumbis">
+    <img height="300" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=alinetakai&repo=fuga-dos-zumbis&theme=tokyonight" />
+  </a>
+  &nbsp;&nbsp;
+
+  <a href="https://github.com/alinetakai/desafio-da-forca">
+    <img height="300" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=alinetakai&repo=desafio-da-forca&theme=radical" />
   </a>
 
 </div>
 
----
 
 ## 🧠 Tecnologias que utilizo
 
@@ -53,7 +57,6 @@
   &nbsp;
   <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   &nbsp;
-  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/roblox/roblox-original.svg" title="Roblox Lua">
 
 </div>
 

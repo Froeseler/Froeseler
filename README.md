@@ -19,7 +19,7 @@
 <div align="center">
 
   <a href="https://github.com/Froeseler/lms-flask-platform">
-    <img height="300" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Froeseler&repo=lms-flask-platform&theme=radical" />
+    <img height="300" src="https://github.com/Froeseler/forca-python" />
   </a>
   &nbsp;&nbsp;
 
